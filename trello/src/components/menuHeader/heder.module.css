@@ -1,13 +1,13 @@
 .header {
     display: flex;
     padding-bottom: 10px;
-    border-bottom: 1px solid rgba(223 224 224);
     gap: 10px;
 }
 
 .iconContainer {
     display: flex;
     align-items: center;
+    gap: 20px;
 }
 
 .userMenu {

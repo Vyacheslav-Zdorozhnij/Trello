@@ -7,13 +7,6 @@ export function Header2Component() {
       <p>Brackets</p>
       <div className={style.iconContainer}>
         <Image
-          src="/header2-icons/Hard.svg"
-          width={19}
-          height={19}
-          alt={"hard"}
-        ></Image>
-
-        <Image
           src="/header2-icons/Heart.svg"
           width={19}
           height={19}
@@ -23,6 +16,12 @@ export function Header2Component() {
         <Image
           src="/header2-icons/Public.svg"
           width={88}
+          height={35}
+          alt={"hard"}
+        ></Image>
+        <Image
+          src="/header2-icons/Hard.svg"
+          width={30}
           height={35}
           alt={"hard"}
         ></Image>
