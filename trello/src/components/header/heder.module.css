@@ -1,0 +1,58 @@
+
+.header{
+    display: flex;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(223 224 224);
+    gap: 10px;
+}
+
+.search_item {
+    width: 512px;
+    height: 30px;
+    display: flex;
+    border-radius: 15px;
+    background-color: rgba(180, 181, 182, 0.425);
+}
+.search_item img{
+    margin: auto;
+}
+.input_search {
+    width: 460px;
+    height: 20px;
+    margin: auto;
+    border: 0px;
+    outline: none;
+    align-self: center;
+    background-color: rgba(223 224 224);
+}
+
+.user_outline{
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    width: 120px;
+    height: 20px;
+}
+.trello_mark{
+    display: flex;
+    align-self: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 1px solid rgb(157, 144, 144);
+    border-right: 1px solid rgb(157, 144, 144);;
+    
+}
+.trello_mark p{
+    margin: auto;
+}
+
+.header_logo{
+    display: flex;
+    align-self: center;
+}
+
+.user_panel{
+    display: flex;
+    justify-content: end;
+    width: 40%;
+}
