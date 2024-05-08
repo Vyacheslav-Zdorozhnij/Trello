@@ -1,0 +1,39 @@
+.card {
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #F4F4F4;
+    margin-bottom: 10px;
+}
+
+.card_text {
+    display: flex;
+    flex-direction: column;
+}
+
+/* .card_text h4 {
+    margin: 5px;
+    font-size: 16px;
+} */
+
+/* .card_text p {
+    margin: 5px;
+    font-size: 13px;
+} */
+
+/* .bottom_card_container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+/* .icons {
+    display: flex;
+    gap: 20px;
+} */
+
+/* .icon {
+    display: flex;
+    color: cadetblue;
+} */
